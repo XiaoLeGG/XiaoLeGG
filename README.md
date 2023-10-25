@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xiaolegg&label=Profile%20views&color=0e75b6&style=flat" alt="xiaolegg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xiaolegg" alt="xiaolegg" /></a> </p>
+### About me:
 
 - 🔭 I’m currently working on **Automatically time-space data analysis based on LLM**
 
@@ -32,5 +32,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaolegg&show_icons=true&locale=en" alt="xiaolegg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaolegg&" alt="xiaolegg" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=xiaolegg&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
