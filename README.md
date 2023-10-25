@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **xiaolesama@gmail.com**
 
-- ⚡ Fun fact: I was a Minecraft server plugin developer and I am an Oier.
+- ⚡ Fun fact: I was a Minecraft server plugin developer and I am an ex-Oier.
 
 ### Contact me:
 
