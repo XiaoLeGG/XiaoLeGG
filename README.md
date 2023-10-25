@@ -1,3 +1,6 @@
+<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+
+
 <h1 align="center">Hi 👋, I'm Austin Lun</h1>
 <h3 align="center">A full stack developer from China</h3>
 
