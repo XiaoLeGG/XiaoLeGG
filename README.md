@@ -11,7 +11,7 @@
 
 - 👯 I’m currently studying in **Southern University Of Science and Technology (SUSTech)**
 
-- 📝 My personal website (under maintenance) [blog.lunstin.cn](blog.lunstin.cn)
+- 📝 My personal website (under maintenance) [blog.lunstin.cn](http://blog.lunstin.cn)
 
 - 💬 Ask me about anything that you are interested in
 
